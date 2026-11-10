@@ -1,0 +1,7 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "clip-ason-as",
+  "compatibility_date": "2026-10-28",
+  "assets": { "directory": "./dist/site" },
+  "workers_dev": false
+}
