@@ -1,0 +1,23 @@
+[
+  {
+    "rkey": "3l3qo2vutsw2b",
+    "value": {
+      "$type": "as.ason.clip.entry",
+      "quote": "Make the change easy, then make the easy change.",
+      "text": "リファクタリングと機能追加を分けて考える、という考え方を覚えておきたい。",
+      "source": {
+        "uri": "https://example.com/make-the-change-easy",
+        "title": "Make the change easy"
+      },
+      "createdAt": "2026-11-10T00:00:00.000Z"
+    }
+  },
+  {
+    "rkey": "3l3qo2vuxyz2c",
+    "value": {
+      "$type": "as.ason.clip.entry",
+      "text": "出典なしの、自分のコメントだけのクリップ。<b>タグ</b>は文字として表示される。",
+      "createdAt": "2026-11-10T01:00:00.000Z"
+    }
+  }
+]
